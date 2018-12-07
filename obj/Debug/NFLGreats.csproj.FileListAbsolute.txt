@@ -1,0 +1,8 @@
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\obj\Debug\NFLGreats.csprojAssemblyReference.cache
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\obj\Debug\NFLGreats.csproj.CoreCompileInputs.cache
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\bin\Debug\NFLGreats.exe.config
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\bin\Debug\NFLGreats.exe
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\bin\Debug\NFLGreats.pdb
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\obj\Debug\NFLGreats.csproj.ResolveComReference.cache
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\obj\Debug\NFLGreats.exe
+C:\Users\Dennis.Langmeyer\source\repos\NFLGreats\NFLGreats\obj\Debug\NFLGreats.pdb
